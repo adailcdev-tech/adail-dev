@@ -21,4 +21,4 @@ Transição de eletricista automotivo → dev: aplico **lógica de diagnóstico 
 `React` `Node.js` `Express` `MySQL` `Git` `Vercel` `Railway`
 
 **Disponível para estágio (6h/dia) | Remoto ou BH**  
-Conecte-se no LinkedIn!
+
